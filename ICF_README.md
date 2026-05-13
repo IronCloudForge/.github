@@ -2,7 +2,7 @@
 
 **Forging hardened compliance artifacts for federal cloud environments.**
 
-We build open-source tooling that converts cloud security telemetry into machine-readable compliance artifacts — bridging the gap between what your CNAPP sees and what your ATO package requires.
+We build open-source tooling that converts cloud security telemetry into machine-readable compliance artifacts — bridging the gap between what your tooling sees and what your ATO package requires.
 
 ---
 
