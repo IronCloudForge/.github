@@ -24,8 +24,8 @@ IronCloudForge builds that tooling.
 
 | Repository | What It Does |
 |------------|-------------|
-| [`policy-as-code`](https://github.com/IronCloudForge/policy-as-code) | NIST 800-53 Rev 5 controls expressed as machine-enforceable OPA/Rego rules |
-| [`wiz-oscal`](https://github.com/IronCloudForge/wiz-oscal) | Wiz for Gov → OSCAL 1.1.2 SSP & POA&M generator. RFC-0024 compliant. |
+| [`policy-as-code`] (coming) | NIST 800-53 Rev 5 controls expressed as machine-enforceable OPA/Rego rules |
+| [`wiz-oscal`]((coming)) | Wiz for Gov → OSCAL 1.1.2 SSP & POA&M generator. RFC-0024 compliant. |
 | `fedramp-baselines` *(coming)* | OSCAL profiles for FedRAMP Low, Moderate, and High baselines |
 | `cac-azure` *(coming)* | Compliance as Code for Azure — Terraform + policy enforcement mapped to 800-53 |
 
